@@ -3,9 +3,9 @@
 
 <h2>Gestion des médias</h2>
 <?php 
-	if(1==1){
-		echo 'toto';
-	}
+// 	if(1==1){
+// 		echo 'toto';
+// 	}
 ?>
 <ul class="nav nav-tabs">
     <li class="active"><a href="#creation" data-toggle="tab">Création</a></li>
